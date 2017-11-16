@@ -1,0 +1,91 @@
+2017-11-16 01:34:26 : select option 3(find_string)
+2017-11-16 01:34:26 : enter into find_string program
+2017-11-16 01:34:38 : enter file name as 'mytimer.c' in option 3(find_string) 
+2017-11-16 01:34:43 : enter string to search as 'time' in option 3(find_string) 
+2017-11-16 01:34:43 : given string 'time' is occured at line number 2 in 'mytimer.c' file
+2017-11-16 01:34:43 : given string 'time' is occured at line number 6 in 'mytimer.c' file
+2017-11-16 01:34:43 : given string 'time' is occured at line number 6 in 'mytimer.c' file
+2017-11-16 01:34:43 : given string 'time' is occured at line number 9 in 'mytimer.c' file
+2017-11-16 01:34:43 : given string 'time' is occured at line number 9 in 'mytimer.c' file
+2017-11-16 01:34:43 : given string 'time' is occured at line number 10 in 'mytimer.c' file
+2017-11-16 01:34:43 : given string 'time' is occured at line number 10 in 'mytimer.c' file
+2017-11-16 01:34:43 : given string 'time' is occured at line number 11 in 'mytimer.c' file
+2017-11-16 01:34:43 : 'time' string in 'mytimer.c' file occured 8 times
+2017-11-16 01:51:05 : enter into main function
+2017-11-16 01:51:10 : select option 1
+2017-11-16 01:51:10 : enter into to 'scan_dir' fuction
+2017-11-16 01:51:24 : select option 6
+2017-11-16 01:51:24 : quiting.....
+2017-11-16 02:37:55 : enter into main function
+2017-11-16 02:37:58 : select option 1
+2017-11-16 02:37:58 : enter into to 'scan_dir' function
+2017-11-16 02:38:04 : enter directory name as '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'temp_home' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'temp' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'strsrch.o' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'strsrch.c' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'search1.c' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'scandir.o' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'scandir.c' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'myhdr.h' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'makefile' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'main.o' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'main.c' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'list.o' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'list.c' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'app' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename 'a.out' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename '..' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : print filename '.' in directory '../' in 'scan_dir' function
+2017-11-16 02:38:04 : number of directory are:2
+2017-11-16 02:38:04 : print number of files are : 15
+2017-11-16 02:38:14 : select option 2
+2017-11-16 02:38:14 : enter into to 'list' function
+2017-11-16 02:38:16 : enter directory name as './' in function 'list'
+2017-11-16 02:38:16 : print file name as 'strsrch.o'
+2017-11-16 02:38:16 : print file name as 'strsrch.c'
+2017-11-16 02:38:16 : print file name as 'show_list.o'
+2017-11-16 02:38:16 : print file name as 'show_list.c'
+2017-11-16 02:38:16 : print file name as 'scan_dir.o'
+2017-11-16 02:38:16 : print file name as 'scan_dir.c'
+2017-11-16 02:38:16 : print file name as 'mytimer.o'
+2017-11-16 02:38:16 : print file name as 'mytimer.c'
+2017-11-16 02:38:16 : print file name as 'myhdr.h'
+2017-11-16 02:38:16 : print file name as 'makefile'
+2017-11-16 02:38:16 : print file name as 'main.o'
+2017-11-16 02:38:16 : print file name as 'main.c'
+2017-11-16 02:38:16 : print file name as 'log_open.o'
+2017-11-16 02:38:16 : print file name as 'log_open.c'
+2017-11-16 02:38:16 : print file name as 'log.txt'
+2017-11-16 02:38:16 : print file name as 'fdupes.o'
+2017-11-16 02:38:16 : print file name as 'fdupes.c'
+2017-11-16 02:38:16 : print file name as 'app'
+2017-11-16 02:38:16 : print file name as 'a.out'
+2017-11-16 02:38:16 : print file name as '..'
+2017-11-16 02:38:16 : print file name as '.'
+2017-11-16 02:38:16 : returning.....from function 'list'
+2017-11-16 02:38:26 : select option 3
+2017-11-16 02:38:26 : enter into to 'find_string' function
+2017-11-16 02:38:35 : enter file name as 'log_open.c' in option 3(find_string) 
+2017-11-16 02:38:54 : enter string to search as 'log' in option 3(find_string) 
+2017-11-16 02:38:54 : given string 'log' is occured at line number 2 in 'log_open.c' file
+2017-11-16 02:38:54 : given string 'log' is occured at line number 6 in 'log_open.c' file
+2017-11-16 02:38:54 : 'log' string in 'log_open.c' file occured 2 times
+2017-11-16 02:38:54 : 2017-11-16 02:39:05 : select option 5
+2017-11-16 02:39:05 : open logger file
+2017-11-16 02:39:15 : select option 5
+2017-11-16 02:39:15 : open logger file
+2017-11-16 02:39:17 : select option 6
+2017-11-16 02:39:17 : quiting.....
+2017-11-16 14:41:06 : enter into main function
+2017-11-16 14:41:08 : select option 1
+2017-11-16 14:41:08 : enter into to 'scan_dir' function
+2017-11-16 14:41:25 : enter directory name as 'main' in 'scan_dir' function
+2017-11-16 14:41:29 : select option 1
+2017-11-16 14:41:29 : enter into to 'scan_dir' function
+2017-11-16 14:41:32 : enter directory name as 'ssaa' in 'scan_dir' function
+2017-11-16 14:41:39 : select option 2
+2017-11-16 14:41:39 : enter into to 'list' function
+2017-11-16 14:42:11 : enter directory name as '6' in function 'list'
+2017-11-16 14:42:13 : select option 6
+2017-11-16 14:42:13 : quiting.....
