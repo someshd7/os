@@ -9,7 +9,7 @@ void main()
 	while(1)
 	{
 		printf("***menu***\n");
-		printf("1.directory information\n2.list of contents\n3.find string\n4.find duplicate\n5.open log file\n6.quit\n");
+		printf("1.directory information\n2.list of contents\n3.find string\n4.find duplicate\n5.log file\n6.quit\n");
 		scanf("%d",&ch);
 	        mytimer();
 		dprintf(fd,"select option %d\n",ch);

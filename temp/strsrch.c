@@ -24,6 +24,8 @@ void find_string()
 	if(!fp)
 	{
 		perror("open:");
+		mytimer();
+		system("&>> log.txt");
 		return; 
 	}
 	/*size=lseek(fd,0,SEEK_END);

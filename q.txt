@@ -1,0 +1,12 @@
+arith
+a.txt
+calculator
+fork
+mini_project_cdac
+misc
+pipe
+pthread
+sem_shm
+shell
+shrdmmry
+temp

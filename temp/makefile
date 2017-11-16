@@ -1,13 +1,13 @@
 all:app
 
-app:main.o scan_dir.o strsrch.o show_list.o fdupes.o mytimer.o log_open.o
-	gcc -o app main.o scan_dir.o strsrch.o show_list.o fdupes.o mytimer.o log_open.o
+app:main.o modi_scan_dir.o strsrch.o show_list.o fdupes.o mytimer.o log_open.o
+	gcc -o app main.o modi_scan_dir.o strsrch.o show_list.o fdupes.o mytimer.o log_open.o
 
 main.o:main.c
 	gcc -c -o main.o main.c
 
-scan_dir.o:scan_dir.c
-	gcc -c -o scan_dir.o scan_dir.c
+modi_scan_dir.o:modi_scan_dir.c
+	gcc -c -o modi_scan_dir.o modi_scan_dir.c
 
 strsrch.o:strsrch.c
 	gcc -c -o strsrch.o strsrch.c
